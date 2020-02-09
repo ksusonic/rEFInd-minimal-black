@@ -19,8 +19,8 @@ based systems. This is a clean and minimal black theme for it.
 
 ### Sources:
 
-https://github.com/andersfischernielsen/rEFInd-minimal-black
-https://github.com/munlik/refind-theme-regular
+[Minimal_black] (https://github.com/andersfischernielsen/rEFInd-minimal-black)
+[Regular] (https://github.com/munlik/refind-theme-regular)
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
